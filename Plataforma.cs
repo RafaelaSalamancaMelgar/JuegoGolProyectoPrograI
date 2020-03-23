@@ -8,5 +8,6 @@ namespace JuegoGol
 {
     class Plataforma
     {
+        
     }
 }
